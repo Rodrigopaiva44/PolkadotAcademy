@@ -1,4 +1,3 @@
-# PolkadotAcademy
 # Polkadot Academy
 
 Bem-vindo à Polkadot Academy! Este repositório contém todos os materiais necessários para o nosso curso sobre Polkadot. Aqui você encontrará aulas, desafios, materiais adicionais, e o local para entregar seus trabalhos.
@@ -30,7 +29,7 @@ Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à v
 
 ## Contato
 
-Para mais informações, entre em contato conosco através do [email@example.com](mailto:email@example.com).
+Para mais informações, entre em contato conosco através do discord do Código Brazuca.
 
 ---
 
