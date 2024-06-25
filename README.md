@@ -1,36 +1,48 @@
-# Polkadot Academy
+# Polkadot Academy 🎓
 
-Bem-vindo à Polkadot Academy! Este repositório contém todos os materiais necessários para o nosso curso sobre Polkadot. Aqui você encontrará aulas, desafios, materiais adicionais, e o local para entregar seus trabalhos.
+Welcome to Polkadot Academy! This repository contains all the necessary materials for our comprehensive course on Polkadot. Here you will find lectures, challenges, additional materials, and a place to submit your assignments.
 
-## Estrutura do Repositório
+## 📂 Repository Structure
 
-- **aulas/**: Este diretório contém subdiretórios para cada aula do curso. Cada subdiretório inclui os materiais didáticos da respectiva aula.
-- **desafios/**: Aqui você encontrará subdiretórios para cada desafio proposto no curso. Os desafios são projetados para reforçar o aprendizado e testar seus conhecimentos.
-- **materiais/**: Diretório de materiais adicionais, incluindo artigos, vídeos, e outras referências que podem auxiliar no seu aprendizado.
-- **trabalhos/**: Este é o diretório onde você deve entregar seus trabalhos. Cada aluno tem seu próprio subdiretório para organizar suas entregas.
-- **recursos/**: Diretório com recursos adicionais, como templates de documentos e scripts que podem ser úteis ao longo do curso.
+- **lectures/**: This directory contains subdirectories for each lecture of the course. Each subdirectory includes the educational materials for the respective lecture.
+- **challenges/**: Here you will find subdirectories for each challenge proposed in the course. The challenges are designed to reinforce learning and test your knowledge.
+- **materials/**: This directory contains additional learning resources that can aid in your understanding of Polkadot and related technologies. It includes:
+  - **articles/**: Curated articles that provide in-depth information and insights into various topics covered in the course.
+  - **videos/**: Educational videos and tutorials that visually explain complex concepts and offer practical demonstrations.
+  - **other references/**: Additional resources such as documentation, whitepapers, and links to relevant tools and libraries that can enhance your learning experience.
+- **assignments/**: This is the directory where you should submit your assignments. Each student has their own subdirectory to organize their submissions.
+- **resources/**: Directory with additional resources, such as document templates and scripts that may be useful throughout the course.
 
-## Como Utilizar Este Repositório
+## 🚀 How to Use This Repository
 
-1. **Clone o Repositório**:
+1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/seu-usuario/PolkadotAcademy.git
+    git clone https://github.com/your-username/PolkadotAcademy.git
     ```
 
-2. **Navegue pela Estrutura**:
-    - Vá até o diretório `aulas/` para acessar os materiais de cada aula.
-    - Confira os desafios em `desafios/` e tente resolvê-los.
-    - Utilize os materiais em `materiais/` para aprofundar seus conhecimentos.
-    - Entregue seus trabalhos em `trabalhos/` no seu respectivo subdiretório.
+2. **Navigate Through the Structure**:
+    - Go to the `lectures/` directory to access the materials for each lecture.
+    - Check out the challenges in the `challenges/` directory and try to solve them.
+    - Use the materials in the `materials/` directory to deepen your understanding with additional articles, videos, and references.
+    - Submit your assignments in the `assignments/` directory under your respective subdirectory.
 
-## Contribuindo
+## 🤝 Contributing
 
-Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request. A colaboração é sempre bem-vinda!
+We welcome contributions! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Here’s how you can contribute:
+1. Fork this repository.
+2. Create a branch: `git checkout -b feature-branch-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-branch-name`.
+5. Open a pull request.
 
-## Contato
+## 📬 Contact
 
-Para mais informações, entre em contato conosco através do discord do Código Brazuca.
+For more information, please contact us at CodigoBrazuca discord.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Aproveite o curso e bons estudos!
+Enjoy the course and happy studying! 🌟
